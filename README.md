@@ -2,13 +2,13 @@
 
 ### Python Developer | Machine Learning & Artificial Intelligence Enthusiast
 
-I am passionate about leveraging data and machine learning to solve real-world problems. My interests lie in Artificial Intelligence, Predictive Modeling, Data Science, and scientific data analysis.
+I am passionate about leveraging data and machine learning to solve real-world problems. My interests lie in Artificial Intelligence, Predictive Modeling, Data Science, and Scientific Computing.
 
-I enjoy working on projects that combine data-driven decision making with practical applications, from predictive analytics and classification models to feature engineering and model optimization. Through continuous learning and hands-on projects, I strive to deepen my understanding of machine learning algorithms and build impactful AI solutions.
+I enjoy working on projects that combine data-driven decision making with practical applications, from predictive analytics and classification models to feature engineering and model optimization.
 
 ---
 
-## Areas of Interest
+## 🚀 Areas of Interest
 
 * Machine Learning
 * Artificial Intelligence
@@ -19,15 +19,15 @@ I enjoy working on projects that combine data-driven decision making with practi
 
 ---
 
-## Technical Skills
+## 💻 Technical Skills
 
-**Programming & Data Analysis**
+### Programming & Data Analysis
 
 * Python
 * Pandas
 * NumPy
 
-**Machine Learning**
+### Machine Learning
 
 * Scikit-Learn
 * Classification Models
@@ -35,14 +35,14 @@ I enjoy working on projects that combine data-driven decision making with practi
 * Model Evaluation
 * Hyperparameter Tuning
 
-**Visualization**
+### Visualization
 
 * Matplotlib
 * Seaborn
 
 ---
 
-## Featured Project
+## 🔬 Featured Project
 
 ### QSAR Classification Project
 
@@ -54,7 +54,7 @@ Developed and evaluated multiple machine learning models to predict the biologic
 
 ---
 
-## Currently Exploring
+## 📚 Currently Exploring
 
 * Advanced Machine Learning
 * Deep Learning
@@ -63,4 +63,6 @@ Developed and evaluated multiple machine learning models to predict the biologic
 
 ---
 
-### "Turning data into insights and models into solutions."
+### 📈 Motto
+
+> Turning data into insights and models into solutions.
