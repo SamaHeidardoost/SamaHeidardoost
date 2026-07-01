@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Sama Heidardoost 👋
 
-<!--
-**SamaHeidardoost/SamaHeidardoost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | Machine Learning & Artificial Intelligence Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about leveraging data and machine learning to solve real-world problems. My interests lie in Artificial Intelligence, Predictive Modeling, Data Science, and scientific data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on projects that combine data-driven decision making with practical applications, from predictive analytics and classification models to feature engineering and model optimization. Through continuous learning and hands-on projects, I strive to deepen my understanding of machine learning algorithms and build impactful AI solutions.
+
+---
+
+## Areas of Interest
+
+* Machine Learning
+* Artificial Intelligence
+* Data Science
+* Predictive Modeling
+* Scientific Computing
+* Data Visualization
+
+---
+
+## Technical Skills
+
+**Programming & Data Analysis**
+
+* Python
+* Pandas
+* NumPy
+
+**Machine Learning**
+
+* Scikit-Learn
+* Classification Models
+* Ensemble Learning
+* Model Evaluation
+* Hyperparameter Tuning
+
+**Visualization**
+
+* Matplotlib
+* Seaborn
+
+---
+
+## Featured Project
+
+### QSAR Classification Project
+
+Developed and evaluated multiple machine learning models to predict the biological activity of chemical compounds using molecular descriptors.
+
+**Best Model:** Gradient Boosting
+**Accuracy:** 87.43%
+**ROC-AUC:** 0.926
+
+---
+
+## Currently Exploring
+
+* Advanced Machine Learning
+* Deep Learning
+* Model Optimization
+* Applied Artificial Intelligence
+
+---
+
+### "Turning data into insights and models into solutions."
